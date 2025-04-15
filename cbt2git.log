@@ -1,17 +1,17 @@
-2025-04-15 06:39:50.924429 - Received CBT.V508.FILE901.PDS from FILE901.XMI 
-2025-04-15 06:39:50.925811 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/$$$#DATE
-2025-04-15 06:39:50.925963 - Found $ASSIST.txt (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/$ASSIST
-2025-04-15 06:39:50.926352 - Found $MANUAL.txt (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/$MANUAL
-2025-04-15 06:39:50.926488 - Found @FILE901.txt (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/@FILE901
-2025-04-15 06:39:50.928351 - Found ASMINTRO.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/ASMINTRO.pdf
-2025-04-15 06:39:50.930836 - Found ASSIST$.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASSIST$
-2025-04-15 06:39:50.930986 - Found ASTEST00.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST00
-2025-04-15 06:39:50.931280 - Found ASTEST01.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST01
-2025-04-15 06:39:50.931872 - Found ASTEST02.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST02
-2025-04-15 06:39:50.932114 - Found ASTEST03.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST03
-2025-04-15 06:39:50.932702 - Found ASTEST04.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST04
-2025-04-15 06:39:50.932852 - Found ASTEST05.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST05
-2025-04-15 06:39:50.934327 - Found LOGIC.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/LOGIC.pdf
-2025-04-15 06:39:50.934752 - Found USERGD.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/USERGD.pdf
-2025-04-15 06:39:50.934949 - Found XMSYSGEN.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/XMSYSGEN.pdf
-2025-04-15 06:39:50.935169 - Found XMWRITES.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/XMWRITES.pdf
+2025-04-16 01:19:37.642612 - Received CBT.V508.FILE901.PDS from FILE901.XMI 
+2025-04-16 01:19:37.643650 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/$$$#DATE
+2025-04-16 01:19:37.643717 - Found $ASSIST.txt (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/$ASSIST
+2025-04-16 01:19:37.643837 - Found $MANUAL.txt (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/$MANUAL
+2025-04-16 01:19:37.643881 - Found @FILE901.txt (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/@FILE901
+2025-04-16 01:19:37.644282 - Found ASMINTRO.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/ASMINTRO.pdf
+2025-04-16 01:19:37.645159 - Found ASSIST$.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASSIST$
+2025-04-16 01:19:37.645212 - Found ASTEST00.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST00
+2025-04-16 01:19:37.645288 - Found ASTEST01.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST01
+2025-04-16 01:19:37.645445 - Found ASTEST02.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST02
+2025-04-16 01:19:37.645500 - Found ASTEST03.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST03
+2025-04-16 01:19:37.645655 - Found ASTEST04.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST04
+2025-04-16 01:19:37.645701 - Found ASTEST05.jcl (text/plain) in CBT.V508.FILE901.PDS, moved to PDS/ASTEST05
+2025-04-16 01:19:37.645952 - Found LOGIC.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/LOGIC.pdf
+2025-04-16 01:19:37.646103 - Found USERGD.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/USERGD.pdf
+2025-04-16 01:19:37.646180 - Found XMSYSGEN.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/XMSYSGEN.pdf
+2025-04-16 01:19:37.646253 - Found XMWRITES.pdf (application/pdf) in CBT.V508.FILE901.PDS, moved to docs/XMWRITES.pdf
